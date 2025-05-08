@@ -2,39 +2,54 @@
 
 ## Descripción 📄
 
-Este proyecto corresponde a un taller práctico de HTML y CSS, donde se construye un sitio web básico con estilos visuales aplicados mediante hojas de estilo en cascada.
+Este proyecto corresponde a un taller práctico de HTML y CSS, donde se construye un sitio web básico con estilos visuales aplicados mediante hojas de estilo en cascada. El sitio incluye una página principal, una sección de servicios con diferentes planes, una página "Sobre nosotros" y páginas de detalles para cada plan de servicio. Se busca una presentación clara y adaptable a distintos dispositivos.
 
-## Comenzando 🚀
+## Estructura de carpetas y archivos 📂
 
-Sigue estos pasos para visualizar el sitio web localmente:
+/
+├── css/
+│   └── style.css
+├── img/
+│   ├── logo.png
+│   ├── servicio1.jpg
+│   ├── servicio2.jpg
+│   ├── equipo.jpg
+│   ├── plan_basico.jpg
+│   ├── plan_estandar.jpg
+│   └── plan_premium.jpg
+├── pages/
+│   ├── plan_basico.html
+│   ├── plan_estandar.html
+│   └── plan_premium.html
+├── index.html
+├── nosotros.html
+└── servicios.html
+README.md
 
-1. Clona el repositorio en tu máquina.
-2. Abre la carpeta en Visual Studio Code.
-3. Usa la extensión "Live Server" o un servidor local para visualizar el sitio en el navegador.
 
-## Pre-requisitos 📋
+## Características implementadas ✨
 
-- Un editor de código (como Visual Studio Code)
-- Un navegador web moderno
-- Opcional: Live Server o servidor local
+- Página principal informativa.
+- Sección de servicios con planes detallados.
+- Página "Sobre nosotros".
+- Diseño estilado con CSS.
+- Diseño adaptable (responsivo).
+- Botones con efectos interactivos.
 
-## Estructura del sitio 🌐
+## Instrucciones para clonar y visualizar el proyecto 💻
 
-El sitio contiene las siguientes páginas:
-
-- `index.html` – Página principal de bienvenida.
-- `servicios.html` – Lista de servicios con planes Básico, Estándar y Premium.
-- `nosotros.html` – Información sobre el equipo o el negocio.
-- Subpáginas: `plan_basico.html`, `plan_estandar.html`, `plan_premium.html`.
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone [https://github.com/karen-codes/emprendimiento-digital.git](https://github.com/karen-codes/emprendimiento-digital.git)
+    ```
+2.  **Abrir `index.html` en el navegador:**
+    Navega a la carpeta del proyecto clonado y abre el archivo `index.html`.
 
 ## Construido con 🛠️
 
-- [Visual Studio Code](https://code.visualstudio.com/) – Editor de código
-- [Git](https://git-scm.com/) – Control de versiones
+- Visual Studio Code
+- Git
 
 ## Autor ✒️
 
-- **Karen Cabascango** – [GitHub](https://github.com/karen-codes)
-
-
-⌨️ Con ❤️ por [Karen Cabascango](https://www.facebook.com/share/166wzZy4jb/) 😊
+- Karen Cabascango ([GitHub](https://github.com/karen-codes))
