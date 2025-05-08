@@ -6,29 +6,14 @@ Este proyecto corresponde a un taller práctico de HTML y CSS, donde se construy
 
 ## Estructura de carpetas y archivos 📂
 
-css
-└── style.css
+![Estructura de Carpetas](img/image.png)
 
-img/
-├── logo.png
-├── servicio1.jpg
-├── servicio2.jpg
-├── equipo.jpg
-├── plan_basico.jpg
-├── plan_estandar.jpg
-└── plan_premium.jpg
-
-pages/
-│   ├── plan_basico.html
-│   ├── plan_estandar.html
-│   └── plan_premium.html
-├── index.html
-├── nosotros.html
-└── servicios.html
 README.md
 
 
 ## Características implementadas ✨
+
+![Estructura de Carpetas](img/pantallaprincipal.png)
 
 - Página principal informativa.
 - Sección de servicios con planes detallados.
@@ -48,9 +33,9 @@ README.md
 
 ## Construido con 🛠️
 
-- Visual Studio Code
-- Git
+- [Visual Studio Code](https://code.visualstudio.com/) – Editor de código
+- [Git](https://git-scm.com/) – Control de versiones
 
 ## Autor ✒️
 
-- Karen Cabascango ([GitHub](https://github.com/karen-codes))
+- Karen Cabascango ⌨️ Con ❤️ ([GitHub](https://github.com/karen-codes))
