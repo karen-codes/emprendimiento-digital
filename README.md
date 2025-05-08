@@ -6,7 +6,6 @@ Taller practico de HTML Y CSS
 
 Esta practica muestra como aplicar estilos CSS a un estilo web construido con HTML.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
