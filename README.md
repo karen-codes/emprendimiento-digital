@@ -6,18 +6,19 @@ Este proyecto corresponde a un taller práctico de HTML y CSS, donde se construy
 
 ## Estructura de carpetas y archivos 📂
 
-/
-├── css/
-│   └── style.css
-├── img/
-│   ├── logo.png
-│   ├── servicio1.jpg
-│   ├── servicio2.jpg
-│   ├── equipo.jpg
-│   ├── plan_basico.jpg
-│   ├── plan_estandar.jpg
-│   └── plan_premium.jpg
-├── pages/
+css
+└── style.css
+
+img/
+├── logo.png
+├── servicio1.jpg
+├── servicio2.jpg
+├── equipo.jpg
+├── plan_basico.jpg
+├── plan_estandar.jpg
+└── plan_premium.jpg
+
+pages/
 │   ├── plan_basico.html
 │   ├── plan_estandar.html
 │   └── plan_premium.html
