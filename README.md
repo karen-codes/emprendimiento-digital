@@ -24,12 +24,16 @@ README.md
 
 ## Instrucciones para clonar y visualizar el proyecto 💻
 
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/karen-codes/emprendimiento-digital.git](https://github.com/karen-codes/emprendimiento-digital.git)
-    ```
-2.  **Abrir `index.html` en el navegador:**
-    Navega a la carpeta del proyecto clonado y abre el archivo `index.html`.
+## Clonar el repositorio 💻
+
+Para obtener una copia local del proyecto, puedes clonar el repositorio utilizando Git:
+
+```bash
+git clone git@github.com:karen-codes/emprendimiento-digital.git
+
+Navega a la carpeta del proyecto clonado (opcional): Una vez que la clonación se complete, puedes entrar a la carpeta del proyecto con:
+
+cd emprendimiento-digital
 
 ## Construido con 🛠️
 
