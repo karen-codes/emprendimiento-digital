@@ -28,7 +28,6 @@ README.md
 
 Para obtener una copia local del proyecto, puedes clonar el repositorio utilizando Git:
 
-```bash
 git clone git@github.com:karen-codes/emprendimiento-digital.git
 
 Navega a la carpeta del proyecto clonado (opcional): Una vez que la clonación se complete, puedes entrar a la carpeta del proyecto con:
